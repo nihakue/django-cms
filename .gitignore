@@ -23,6 +23,7 @@ dist
 .project
 .pydevproject
 .settings
+.sublime-project
 /*.egg-info/
 /*.egg/
 develop-eggs
@@ -39,3 +40,4 @@ lib/
 man/
 share/
 .editorconfig
+.
